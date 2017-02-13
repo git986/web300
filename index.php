@@ -22,5 +22,7 @@ echo "Hello GitHub!!";
 <li><a href="i.html">i</a></li>
 </ul>
 
+<img border="0" src="./img/GitHub.jpg" width="400" height="234" alt="github">
+
 </body>
 </html>
