@@ -1,6 +1,7 @@
 同時テスト　R-net
-
 １行目に入力しました(by arihito)
+
+コンフリクト用の文字を入力しました(by arihito)
 
 arihito
 
