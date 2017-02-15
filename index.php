@@ -24,7 +24,8 @@ echo "Hello GitHub!!";
 			<li class="list-group-item"><a href="i.html">i</a></li>
 		</ul>
 
-		<img class="img-thumbanil rounded text-center" border="0" src="./img/GitHub.jpg" width="400" height="234" alt="github">
+    <img class="img-thumbanil rounded text-center"　border="0" src="./img/logo.png" width="400" height="234" alt="github">
+
 	</div>
 </body>
 </html>
